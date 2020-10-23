@@ -1,1 +1,25 @@
 /* Put your style information here! */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.a {
+  text-align: center;
+}
+
+
+h1 { color: #222222; font-family: 'Helvetica Neue', sans-serif; font-size: 350%; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+h2 {color: #222222; padding-bottom: 1%; padding-top: 3%}
+h5 {color: #222222; padding-bottom: .5%;}
+h7 {color: #222222; padding-bottom: .5%; text-align: center;}
+p {color: #222222 }
+
+
+p {
+padding-bottom: 1%;
+}
